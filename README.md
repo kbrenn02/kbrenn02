@@ -1,4 +1,12 @@
-### Hi there 👋
+<h1 align="center">Hi there. I'm Kevin 👋</h1>
+
+<h3 align="center">I'm working on becoming a full-stack engineer. And I want to create something that will help the world :)</h3>
+
+- 🌱 I’m currently learning Python and JavaScript (and React)
+- 📫 How to reach me: kevinmbrennan08@gmail.com
+
+
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kbrenn02)](https://github.com/kbrenn02/github-readme-stats)
 
 <!--
 **kbrenn02/kbrenn02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
