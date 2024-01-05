@@ -6,7 +6,7 @@
 - 📫 How to reach me: kevinmbrennan08@gmail.com
 
 
-[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=kbrenn02)](https://github.com/kbrenn02/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbrenn02)](https://github.com/kbrenn02/github-readme-stats)
 
 <!--
 **kbrenn02/kbrenn02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
