@@ -1,6 +1,6 @@
 <h1 align="center">Hi there. I'm Kevin 👋</h1>
 
-<h3 align="center">I'm working on becoming a full-stack engineer. And I want to create something that will help the world :)</h3>
+<h3 align="center">I'm an aspiring full-stack engineer. And I want to create something that will help the world :)</h3>
 
 - 🌱 I’m currently learning Python and JavaScript (and React)
 - 📫 How to reach me: kevinmbrennan08@gmail.com
