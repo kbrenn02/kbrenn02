@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm an aspiring full-stack engineer. And I want to create something that will help the world :)</h3>
 
-- 🌱 I’m currently learning Python and JavaScript (and React)
+- 🌱 I’m currently learning NextJS and working with API calls to a local MySQL database. I'm currently improving on my knowledge of HTML, CSS, and Python
 - 📫 How to reach me: kevinmbrennan08@gmail.com
 
 <h3 align="left">Connect with me:</h3>
