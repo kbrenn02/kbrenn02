@@ -1,8 +1,9 @@
-<h1 align="center">Hi there. I'm Kevin 👋</h1>
+<h1 align="center">Hi there! I'm Kevin 👋</h1>
 
 <h3 align="center">I'm an aspiring full-stack engineer. And I want to create something that will help the world :)</h3>
 
 - 🌱 I’m currently working on a full-stack client project, using Docker, PostGres, React, and Prisma. Further, I'm continuing my learning around the backend environment, covering different types of databases and database calls.
+- 🔭 I’m currently building a video sharing app using React Native, NativeWind, and Appwrite.io for the backend. 
 - 📫 How to reach me: kevinmbrennan08@gmail.com
 
 <h3 align="left">Connect with me:</h3>
