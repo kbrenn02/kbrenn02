@@ -15,7 +15,7 @@
 <h3 align="left">Check out my portfolio:</h3>
 https://kevinbrennan.vercel.app/
 
-<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
+<p>~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~</p>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kbrenn02&layout=donut)](https://github.com/kbrenn02/github-readme-stats)
 
