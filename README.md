@@ -5,7 +5,7 @@
 - 🌱 I’m currently working on a full-stack client project, using Docker, PostGres, React, and Prisma. Further, I'm continuing my learning around the backend environment, covering different types of databases and database calls.
 - 🔭 I recently finished building a Spotify clone using the ShazamCore API from RapidAPI and building out the front end using React. Check out my portfolio website to see a demo!
 - 😄 I'm currently working on mini projects to brush up on the languages I know and really drive home core software concepts.
-- 👯 I'm updating my Github with mini Python projects I completed before I had a Github account.
+- 👯 I'm updating my Github with mini Python projects I completed before I had a Github account
 - 📫 How to reach me: kevinmbrennan08@gmail.com
  
 <h3 align="left">Connect with me: </h3>
