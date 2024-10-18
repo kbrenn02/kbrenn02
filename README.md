@@ -2,7 +2,7 @@
 
 <h3 align="center">I'm an aspiring full-stack engineer. And I want to create something that will help the world :)</h3>
 
-- 🌱 I’m currently working on a full-stack client project, using Docker, PostGres, React, and Prisma. Further, I'm continuing my learning around the backend environment, covering different types of databases and database calls.
+- 🌱 I’m currently working on a full-stack client project, using Docker, PostGres, React, and Prisma.
 - 😄 I'm currently working on a media project using React for the frontend and Django as the backend (utitilzing the built in Django DB).
 - 👯 I'm collaborating with a friend to practice partner coding and learn new technologies.
 - 📫 How to reach me - kevinmbrennan08@gmail.com
