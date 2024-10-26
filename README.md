@@ -7,7 +7,7 @@
 - 👯 I'm collaborating with a friend to practice partner coding and learn new technologies.
 - 📫 How to reach me - kevinmbrennan08@gmail.com
 
-For demos of all the projects I feel are good enough to show people, check out my portfolio website below!
+For demos of all the projects I feel are good enough to show people, check out my portfolio website below 👇
  
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
