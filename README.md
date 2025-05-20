@@ -1,10 +1,10 @@
 <h1 align="center">Hi there! I'm Kevin 👋</h1>  
  
-<h3 align="center">I'm an aspiring full-stack engineer. And I want to create something that will help the world :)</h3>
+<h3 align="center">I am a full-stack engineer. And I want to create something that will help the world and bring people together :)</h3>
   
 - 🌱 I’m currently working on a full-stack AI Tutor that will scrap my group's Discord to provide quick answers to student questions. This uses Docker, Postgres, React, and Claude LLM connection, as well as AWS.
 - 😄 I'm currently working on a media project using React for the frontend and Django as the backend (utitilzing the built in Django DB).
-- 👯 I'm collaborating with a friend to practice peer programming and learn new technologies (React frontend / Django backend).
+- 👯 I'm collaborating with a friend to practice peer programming and learn new technologies. We've currently built out a suite of APIs for developers to use.
 - 📫 How to reach me - kevinmbrennan08@gmail.com
 
 For demos of all the projects I feel are good enough to show people, check out my portfolio website below 👇
